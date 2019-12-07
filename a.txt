@@ -1,2 +1,4 @@
 abc
 add something into a.txt file
+
+show demo a.txt
